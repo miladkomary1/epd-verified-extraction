@@ -1,0 +1,46 @@
+{
+  "upload_type": "software",
+  "title": "Registry-verified extraction of environmental product declaration impact indicators using large language models",
+  "description": "<p>Workflow, data and figures for the paper <em>Registry-verified extraction of environmental product declaration impact indicators using large language models for the digitalization of construction sustainability data</em>.</p><p>Environmental product declarations (EPDs) publish EN 15804+A2 life-cycle impact indicators as PDF tables. This software extracts those tables and screens every extracted value with two deterministic checks before surfacing it: source grounding, meaning the printed value must occur verbatim in the normalized document text, and the additivity identities of the standard (PERT = PERE + PERM, PENRT = PENRE + PENRM, GWP-total = fossil + biogenic + luluc). A value that fails either check is withheld rather than reported.</p><p>Evaluation is registry-referenced: the machine-readable records of the OEKOBAUDAT registry supply the reference values, so thousands of indicator slots are scored without new manual annotation. The same screen is then applied to the complete 2024 data stock as an audit of how far registry records can be traced to the documents they cite.</p><p>Contents: 51 pipeline scripts in execution order, 61 data files (corpus manifest, per-run evaluation and usage records, the registry-wide scan, and the export written in the published OEKOBAUDAT column layout with its verification script), and 7 figures at 400 dpi.</p><p>The declaration PDFs are not redistributed; the manifest gives the registry identifier and source URL of every declaration so the corpus can be rebuilt from the public registry. The interactive web application built on this workflow is not part of this release; a public instance runs at https://epd-llm.miladkomary.com.</p><p>Licensing: the code in scripts/ is released under the MIT Licence; the contents of data/ and figures/ are released under CC BY 4.0.</p>",
+  "creators": [
+    {
+      "name": "Komarizadehasl, Seyedmilad",
+      "affiliation": "Universitat Politecnica de Catalunya (UPC)",
+      "orcid": "0000-0002-9010-2611"
+    },
+    {
+      "name": "Tosic, Nikola",
+      "affiliation": "Universitat Politecnica de Catalunya (UPC)",
+      "orcid": "0000-0003-0242-8804"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "environmental product declaration",
+    "EPD",
+    "EN 15804",
+    "life cycle assessment",
+    "embodied carbon",
+    "large language model",
+    "information extraction",
+    "data verification",
+    "OEKOBAUDAT",
+    "construction materials",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://epd-llm.miladkomary.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "grants": [
+    {
+      "id": "PID2024-161115OB-C21"
+    }
+  ],
+  "notes": "Funded by project PID2024-161115OB-C21, FEDER funds (A Way to Make Europe). The declaration PDFs are not redistributed; the manifest allows the corpus to be rebuilt from the public registry."
+}
