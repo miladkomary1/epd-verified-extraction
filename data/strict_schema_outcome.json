@@ -1,0 +1,42 @@
+{
+ "schema_properties": 496,
+ "rejected": 6,
+ "accepted": 0,
+ "errors": [
+  {
+   "uuid": "0e67ff82-dcb5-47fa-9783-71ebebe21077",
+   "status": 400,
+   "msg": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested),"
+  },
+  {
+   "uuid": "1ace8a18-50b8-41b0-bdd0-840b325d16f7",
+   "status": 400,
+   "msg": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested),"
+  },
+  {
+   "uuid": "1d3d4e53-43c7-45d9-9c97-a02c2785ab1c",
+   "status": 400,
+   "msg": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested),"
+  },
+  {
+   "uuid": "20c24cbe-4c17-45f6-9539-144d43099b25",
+   "status": 400,
+   "msg": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested),"
+  },
+  {
+   "uuid": "299cd856-c220-4b82-910d-60c91e035c7d",
+   "status": 400,
+   "msg": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested),"
+  },
+  {
+   "uuid": "3106ccac-01cc-467f-8bff-8a515c575928",
+   "status": 400,
+   "msg": "{\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested),"
+  }
+ ],
+ "usage": {
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "cost_usd": 0.0
+ }
+}

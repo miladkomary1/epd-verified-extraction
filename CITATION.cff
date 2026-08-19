@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: If you use this workflow or data, please cite the paper and this repository.
+title: >-
+  Registry-verified extraction of environmental product declaration impact
+  indicators using large language models
+type: software
+authors:
+  - family-names: Komarizadehasl
+    given-names: Seyedmilad
+    affiliation: Universitat Politecnica de Catalunya (UPC)
+    orcid: https://orcid.org/0000-0002-9010-2611
+  - family-names: Tosic
+    given-names: Nikola
+    affiliation: Universitat Politecnica de Catalunya (UPC)
+    orcid: https://orcid.org/0000-0003-0242-8804
+license: MIT
+repository-code: https://github.com/miladkomary1/epd-verified-extraction
+keywords:
+  - environmental product declaration
+  - EN 15804
+  - life cycle assessment
+  - embodied carbon
+  - large language model
+  - information extraction
+  - OEKOBAUDAT

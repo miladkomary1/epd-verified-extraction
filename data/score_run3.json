@@ -1,0 +1,61 @@
+{
+ "totals": {
+  "gt_slots": 2800,
+  "populated": 2732,
+  "matched": 2726,
+  "extra": 80
+ },
+ "coverage_pct": 97.57142857142857,
+ "precision_pct": 99.78038067349927,
+ "recall_pct": 97.35714285714285,
+ "errors": [
+  {
+   "item": "Access manager 92 00",
+   "ind": "RWD",
+   "mod": "A4",
+   "llm": 2.5e-06,
+   "gt": 2.5e-07,
+   "class": "MAG"
+  },
+  {
+   "item": "AF/ArmaFlex Evo insulation for",
+   "ind": "PERT",
+   "mod": "A1-A3",
+   "llm": 1580.0,
+   "gt": 1680.0,
+   "class": "ROUND"
+  },
+  {
+   "item": "AF/ArmaFlex Evo insulation for",
+   "ind": "PERT",
+   "mod": "A5",
+   "llm": 122.0,
+   "gt": 18.2,
+   "class": "OTHER"
+  },
+  {
+   "item": "AF/ArmaFlex Evo insulation for",
+   "ind": "PENRT",
+   "mod": "A1-A3",
+   "llm": 2760.0,
+   "gt": 3670.0,
+   "class": "OTHER"
+  },
+  {
+   "item": "AF/ArmaFlex Evo insulation for",
+   "ind": "PENRT",
+   "mod": "A5",
+   "llm": 51.0,
+   "gt": 43.5,
+   "class": "COL(=A4)"
+  },
+  {
+   "item": "AF/ArmaFlex Evo insulation for",
+   "ind": "PENRT",
+   "mod": "C3",
+   "llm": 1150.0,
+   "gt": 252.0,
+   "class": "OTHER"
+  }
+ ]
+}

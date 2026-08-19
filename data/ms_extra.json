@@ -1,0 +1,371 @@
+{
+ "per_ind": {
+  "GWP-total": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1358,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 99.12408759124088
+  },
+  "GWP-fossil": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1356,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 98.97810218978103
+  },
+  "GWP-biogenic": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "GWP-luluc": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "ODP": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "AP": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "EP-freshwater": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "EP-marine": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "EP-terrestrial": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "POCP": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "ADPE": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "ADPF": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "WDP": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "PERE": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "PERM": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "PERT": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "PENRE": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "PENRM": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "PENRT": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "SM": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "RSF": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "NRSF": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "FW": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "HWD": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "NHWD": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1370,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 100.0
+  },
+  "RWD": {
+   "gt": 1400,
+   "pop": 1370,
+   "match": 1369,
+   "cov_pct": 97.85714285714285,
+   "acc_pct": 99.92700729927007
+  }
+ },
+ "per_mod": {
+  "A1-A3": {
+   "gt": 4160,
+   "pop": 4160,
+   "match": 4160,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "C1": {
+   "gt": 3900,
+   "pop": 3900,
+   "match": 3900,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "C2": {
+   "gt": 4680,
+   "pop": 4680,
+   "match": 4676,
+   "cov_pct": 100.0,
+   "acc_pct": 99.91452991452991
+  },
+  "C3": {
+   "gt": 4680,
+   "pop": 4420,
+   "match": 4420,
+   "cov_pct": 94.44444444444444,
+   "acc_pct": 100.0
+  },
+  "C4": {
+   "gt": 4420,
+   "pop": 4160,
+   "match": 4160,
+   "cov_pct": 94.11764705882352,
+   "acc_pct": 100.0
+  },
+  "D": {
+   "gt": 4680,
+   "pop": 4420,
+   "match": 4420,
+   "cov_pct": 94.44444444444444,
+   "acc_pct": 100.0
+  },
+  "A4": {
+   "gt": 2600,
+   "pop": 2600,
+   "match": 2579,
+   "cov_pct": 100.0,
+   "acc_pct": 99.1923076923077
+  },
+  "A5": {
+   "gt": 2600,
+   "pop": 2600,
+   "match": 2598,
+   "cov_pct": 100.0,
+   "acc_pct": 99.92307692307692
+  },
+  "B6": {
+   "gt": 1300,
+   "pop": 1300,
+   "match": 1300,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "A1": {
+   "gt": 520,
+   "pop": 520,
+   "match": 520,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "A2": {
+   "gt": 520,
+   "pop": 520,
+   "match": 520,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "A3": {
+   "gt": 520,
+   "pop": 520,
+   "match": 520,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "B1": {
+   "gt": 780,
+   "pop": 780,
+   "match": 780,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "B2": {
+   "gt": 520,
+   "pop": 520,
+   "match": 520,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  },
+  "B7": {
+   "gt": 520,
+   "pop": 520,
+   "match": 520,
+   "cov_pct": 100.0,
+   "acc_pct": 100.0
+  }
+ },
+ "worked": {
+  "name": "'LinCrete' Glass-Fibre Reinforced Concrete - GFRC-Platten",
+  "declared_unit": "1 tonne of 'LinCrete' Glass-Fibre Reinforced Concrete.",
+  "rows": [
+   {
+    "code": "GWP-total",
+    "unit": "kg CO_(2) eq",
+    "extracted": 847.0,
+    "registry": 847.351015163189,
+    "match": true
+   },
+   {
+    "code": "GWP-fossil",
+    "unit": "kg CO_(2) eq",
+    "extracted": 934.0,
+    "registry": 933.522267135669,
+    "match": true
+   },
+   {
+    "code": "PERT",
+    "unit": "MJ",
+    "extracted": 2940.0,
+    "registry": 2941.28401007109,
+    "match": true
+   },
+   {
+    "code": "PENRT",
+    "unit": "MJ",
+    "extracted": 9430.0,
+    "registry": 9428.32509449935,
+    "match": true
+   },
+   {
+    "code": "FW",
+    "unit": "m^3",
+    "extracted": 2.57,
+    "registry": 2.56627049817511,
+    "match": true
+   },
+   {
+    "code": "NHWD",
+    "unit": "kg",
+    "extracted": 242.0,
+    "registry": 242.054446819909,
+    "match": true
+   }
+  ]
+ },
+ "ranges": {
+  "prec_min": 99.85962942167322,
+  "prec_max": 99.94385176866929,
+  "err_min": 2,
+  "err_max": 5,
+  "gated_err_all": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "ranges_naive": {
+  "err": [
+   1,
+   6,
+   6
+  ],
+  "gated_surfaced": [
+   0,
+   5,
+   5
+  ]
+ }
+}

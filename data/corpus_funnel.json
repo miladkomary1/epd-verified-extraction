@@ -1,0 +1,10 @@
+{
+ "corpus_dirs_on_disk": 220,
+ "unique_pdf_hashes_on_disk": 220,
+ "scanned_specific": 663,
+ "no_retrievable_document": 182,
+ "duplicate_of_document_already_collected": 260,
+ "download_failed": 1,
+ "unique_documents": 220,
+ "reconciles": true
+}

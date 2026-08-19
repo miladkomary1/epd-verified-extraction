@@ -1,0 +1,35 @@
+{
+ "gt_slots": 3640,
+ "parser_slots": 2990,
+ "gap_slots": 650,
+ "parser_cov_pct": 82.14285714285714,
+ "parser_agreement_pct": 100.0,
+ "gap_pct": 17.857142857142858,
+ "gap_llm_cov": [
+  88.0,
+  0.0
+ ],
+ "gap_llm_agreement": [
+  100.0,
+  0.0
+ ],
+ "cascade_cov_raw": [
+  97.85714285714285,
+  0.0
+ ],
+ "cascade_agr_raw": [
+  100.0,
+  0.0
+ ],
+ "cascade_cov_gated": [
+  97.85714285714285,
+  0.0
+ ],
+ "cascade_agr_gated": [
+  100.0,
+  0.0
+ ],
+ "docs_needing_llm": 18,
+ "n_docs": 18,
+ "n_runs": 10
+}

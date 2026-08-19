@@ -1,0 +1,182 @@
+[
+ {
+  "uuid": "f518d04d-4805-4d97-b457-9920226f3ff4",
+  "name": " LCO White Clinker Bulk Plant Oggaz",
+  "status": "ok",
+  "pdf": "Cement.pdf",
+  "pages": 15,
+  "chars": 33971,
+  "classific": "Mineralische Baustoffe / Bindemittel / Zement"
+ },
+ {
+  "uuid": "c54c16f6-4295-4749-bff0-ba7ed4bc9117",
+  "name": "'LinCrete' Glasfaserverstärkter Beton - GFRC-Platten",
+  "status": "ok",
+  "pdf": "Fibre_cement_Fibre_concrete_22566.pdf",
+  "pages": 14,
+  "chars": 42778,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Betonfertigteile und Betonwaren"
+ },
+ {
+  "uuid": "20c24cbe-4c17-45f6-9539-144d43099b25",
+  "name": "Access manager 92 00",
+  "status": "ok",
+  "pdf": "Electronic_and_physical_Access_Control_Systems_14699.pdf",
+  "pages": 18,
+  "chars": 47444,
+  "classific": "Gebäudetechnik / Elektro / Sicherungs- und Schaltschränke"
+ },
+ {
+  "uuid": "671a8c95-a3f8-4010-937e-c72940f66504",
+  "name": "Access manager 92 30",
+  "status": "ok",
+  "pdf": "Electronic_and_physical_Access_Control_Systems_14684.pdf",
+  "pages": 18,
+  "chars": 47444,
+  "classific": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Kunststoffbeschläge"
+ },
+ {
+  "uuid": "299cd856-c220-4b82-910d-60c91e035c7d",
+  "name": "Access manager 92 90 Wall",
+  "status": "ok",
+  "pdf": "Electronic_and_physical_Access_Control_Systems_13223.pdf",
+  "pages": 18,
+  "chars": 46443,
+  "classific": "Gebäudetechnik / Elektro / Sicherungs- und Schaltschränke"
+ },
+ {
+  "uuid": "1d3d4e53-43c7-45d9-9c97-a02c2785ab1c",
+  "name": "ADAGIO Acoustic+",
+  "status": "ok",
+  "pdf": "Mineral_panels_20435.pdf",
+  "pages": 14,
+  "chars": 41687,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Deckenplatten"
+ },
+ {
+  "uuid": "eb6f1c56-85f7-436f-b8d7-36fd3d072017",
+  "name": "ADAGIO Alpha+",
+  "status": "ok",
+  "pdf": "Mineral_panels_20440.pdf",
+  "pages": 14,
+  "chars": 41687,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Deckenplatten"
+ },
+ {
+  "uuid": "55a779b7-89a1-4249-a37b-1c2445e56426",
+  "name": "ADAGIO dB+",
+  "status": "ok",
+  "pdf": "Mineral_panels_20442.pdf",
+  "pages": 14,
+  "chars": 41687,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Deckenplatten"
+ },
+ {
+  "uuid": "9eced374-9a8d-4ace-a569-56d52a2d1013",
+  "name": "ADAGIO dB+ and Adagio Acoustic+",
+  "status": "ok",
+  "pdf": "Mineral_panels_20441.pdf",
+  "pages": 14,
+  "chars": 41687,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Deckenplatten"
+ },
+ {
+  "uuid": "3222ca11-e1ee-4910-9997-0ea4e42831f6",
+  "name": "ADAGIO HD+ (19 mm)",
+  "status": "ok",
+  "pdf": "Mineral_panels_20437.pdf",
+  "pages": 14,
+  "chars": 41687,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Deckenplatten"
+ },
+ {
+  "uuid": "9394795b-a620-4f54-b72c-c535bb0a02f0",
+  "name": "ADAGIO HD+ (30 mm)",
+  "status": "ok",
+  "pdf": "Mineral_panels_20438.pdf",
+  "pages": 14,
+  "chars": 41687,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Deckenplatten"
+ },
+ {
+  "uuid": "0e67ff82-dcb5-47fa-9783-71ebebe21077",
+  "name": "ADAGIO HD+ (35 mm)",
+  "status": "ok",
+  "pdf": "Mineral_panels_20439.pdf",
+  "pages": 14,
+  "chars": 41687,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Deckenplatten"
+ },
+ {
+  "uuid": "3106ccac-01cc-467f-8bff-8a515c575928",
+  "name": "AF/ArmaFlex Evo insulation for industrial and building installation",
+  "status": "ok",
+  "pdf": "Insulating_materials_made_of_foam_plastics_15607.pdf",
+  "pages": 18,
+  "chars": 46360,
+  "classific": "Dämmstoffe / Kautschuk / Schaum"
+ },
+ {
+  "uuid": "fd6ae0fa-4d2d-4005-9759-909e508751ab",
+  "name": "Airium zementbasierter Dämmschaum",
+  "status": "ok",
+  "pdf": "cement-based_foams_15663.pdf",
+  "pages": 18,
+  "chars": 47367,
+  "classific": "Dämmstoffe / Ortschaum / Mineralisch"
+ },
+ {
+  "uuid": "215ccde9-9317-4c9c-88b7-afd71e5d2102",
+  "name": "ALT 100",
+  "status": "ok",
+  "pdf": "Room_partition_systems_14996.pdf",
+  "pages": 17,
+  "chars": 46370,
+  "classific": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium"
+ },
+ {
+  "uuid": "36727a61-de18-4063-8f73-6c6957915f55",
+  "name": "ALT 50",
+  "status": "ok",
+  "pdf": "Room_partition_systems_15159.pdf",
+  "pages": 17,
+  "chars": 46780,
+  "classific": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium"
+ },
+ {
+  "uuid": "b0544ff7-dd7c-46ac-b5e2-8530c52f7950",
+  "name": "ALWI-S Profilsystem",
+  "status": "ok",
+  "pdf": "Duennwandige_Profile_und_Profiltafeln_aus_Metall_14940.pdf",
+  "pages": 18,
+  "chars": 46188,
+  "classific": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Aluminium"
+ },
+ {
+  "uuid": "1ace8a18-50b8-41b0-bdd0-840b325d16f7",
+  "name": "Anpralldämpfer Kremsbarrier APD P100 - Anpralldämpfer",
+  "status": "ok",
+  "pdf": "Baustaehle_22424.pdf",
+  "pages": 14,
+  "chars": 42782,
+  "classific": "Metalle / Stahl und Eisen / Stahlprofile"
+ },
+ {
+  "uuid": "83bf0eea-e373-492a-8837-dbabfdc3a5fc",
+  "name": "AQUAPANEL® Cement Board Indoor - Zement-Backerboard",
+  "status": "ok",
+  "pdf": "Fibre_cement_Fibre_concrete_22137.pdf",
+  "pages": 14,
+  "chars": 42778,
+  "classific": "Mineralische Baustoffe / Mörtel und Beton / Beton"
+ },
+ {
+  "uuid": "f9e2c14d-41e0-46d1-be45-03dd5b3f518c",
+  "name": "AQUAPANEL® Cement Board Indoor - Zementplatte",
+  "status": "ok",
+  "pdf": "Fibre_cement_Fibre_concrete_20685.pdf",
+  "pages": 14,
+  "chars": 42778,
+  "classific": "Mineralische Baustoffe / Steine und Elemente / Faserzement"
+ }
+]

@@ -1,0 +1,286 @@
+{
+ "fullstock": {
+  "total_records": 4380,
+  "generic": 2788,
+  "specific": 1592,
+  "status": {
+   "pair_mismatch": 245,
+   "no_pdf_source": 523,
+   "pair_ok": 632,
+   "generic": 2788,
+   "pdf_fetch_fail": 1,
+   "pair_partial": 191
+  },
+  "unique_pdfs": 651,
+  "spec_no_pdf_source": 523,
+  "spec_pdf_fetch_fail": 1,
+  "spec_no_text_layer": 0,
+  "spec_pair_ok": 632,
+  "spec_pair_partial": 191,
+  "spec_pair_mismatch": 245,
+  "spec_no_anchor_values": 0,
+  "pct_no_pdf_of_specific": 32.9,
+  "pct_mismatch_of_checked": 22.9,
+  "pct_partial_of_checked": 17.9
+ },
+ "dsext": {
+  "run": "dsext",
+  "scope": "ext",
+  "n_items": 113,
+  "gt_slots": 22317,
+  "coverage_pct": 65.86906842317516,
+  "precision_pct": 99.36734693877551,
+  "recall_pct": 65.45234574539589,
+  "n_errors": 93,
+  "gated_coverage_pct": 64.98185239951606,
+  "gated_precision_pct": 99.43456075024135,
+  "gated_errors_surfaced": 82,
+  "errors_withheld": 11,
+  "correct_withheld": 187,
+  "errors": [
+   {
+    "item": "Double cylinder - star cross, ",
+    "code": "ODP",
+    "mod": "A4",
+    "llm": 2.29e-16,
+    "gt": 2.29e-19
+   },
+   {
+    "item": "Double cylinder - star cross, ",
+    "code": "ODP",
+    "mod": "C2",
+    "llm": 9.44e-17,
+    "gt": 9.44e-20
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "GWP-total",
+    "mod": "D",
+    "llm": -0.0381,
+    "gt": -0.2713
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "GWP-fossil",
+    "mod": "D",
+    "llm": -0.0379,
+    "gt": -0.2708
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "GWP-biogenic",
+    "mod": "D",
+    "llm": -0.000194,
+    "gt": -0.0004221
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "GWP-luluc",
+    "mod": "D",
+    "llm": -4.16e-06,
+    "gt": -0.0001264
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "ODP",
+    "mod": "D",
+    "llm": -2.56e-13,
+    "gt": -3.828e-13
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "AP",
+    "mod": "D",
+    "llm": -4.98e-05,
+    "gt": -0.0009759
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "EP-freshwater",
+    "mod": "D",
+    "llm": -5.2e-08,
+    "gt": -2.853e-07
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "EP-marine",
+    "mod": "D",
+    "llm": -1.35e-05,
+    "gt": -0.0003005
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "EP-terrestrial",
+    "mod": "D",
+    "llm": -0.000145,
+    "gt": -0.003293
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "POCP",
+    "mod": "D",
+    "llm": -3.78e-05,
+    "gt": -0.0009057
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "ADPE",
+    "mod": "D",
+    "llm": -5.71e-09,
+    "gt": -2.557e-08
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "ADPF",
+    "mod": "D",
+    "llm": -0.644,
+    "gt": -34.31
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "WDP",
+    "mod": "D",
+    "llm": -0.00398,
+    "gt": -0.04036
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "PERE",
+    "mod": "D",
+    "llm": -0.177,
+    "gt": -0.3663
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "PERT",
+    "mod": "D",
+    "llm": -0.177,
+    "gt": -0.3663
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "PENRE",
+    "mod": "D",
+    "llm": -0.644,
+    "gt": -34.32
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "PENRT",
+    "mod": "D",
+    "llm": -0.644,
+    "gt": -34.32
+   },
+   {
+    "item": "Tufted tiles, Polyamid 6 with ",
+    "code": "SM",
+    "mod": "D",
+    "llm": 0.0,
+    "gt": 0.15
+   }
+  ]
+ },
+ "robustness_core": {
+  "gemini-2.5-flash": {
+   "coverage_pct": 97.85714285714285,
+   "precision_pct": 99.91577765300393,
+   "n_errors": 3,
+   "gated_coverage_pct": 97.06043956043956,
+   "gated_precision_pct": 100.0,
+   "gated_errors_surfaced": 0
+  },
+  "deepseek-v4-flash": {
+   "coverage_pct": 96.53846153846153,
+   "precision_pct": 99.88616960728514,
+   "n_errors": 4,
+   "gated_coverage_pct": 95.85164835164835,
+   "gated_precision_pct": 100.0,
+   "gated_errors_surfaced": 0
+  },
+  "deepseek-v4-pro": {
+   "coverage_pct": 97.85714285714285,
+   "precision_pct": 100.0,
+   "n_errors": 0,
+   "gated_coverage_pct": 97.28021978021978,
+   "gated_precision_pct": 100.0,
+   "gated_errors_surfaced": 0
+  }
+ },
+ "datasheet": {
+  "docs": 131,
+  "valid_until": [
+   122,
+   131
+  ],
+  "geography": [
+   71,
+   131
+  ],
+  "standard": [
+   127,
+   131
+  ],
+  "registration_number": [
+   120,
+   131
+  ],
+  "reg_no_registry_missing": 0,
+  "geo_semantic_diff": 7,
+  "geo_true_miss": 53,
+  "ind_slots": 9118,
+  "ind_pop": 5949,
+  "ind_ok": 5916
+ },
+ "cascade": {
+  "gt_slots": 3640,
+  "parser_slots": 2990,
+  "gap_slots": 650,
+  "parser_cov_pct": 82.14285714285714,
+  "parser_agreement_pct": 100.0,
+  "gap_pct": 17.857142857142858,
+  "gap_llm_cov": [
+   88.0,
+   0.0
+  ],
+  "gap_llm_agreement": [
+   100.0,
+   0.0
+  ],
+  "cascade_cov_raw": [
+   97.85714285714285,
+   0.0
+  ],
+  "cascade_agr_raw": [
+   100.0,
+   0.0
+  ],
+  "cascade_cov_gated": [
+   97.85714285714285,
+   0.0
+  ],
+  "cascade_agr_gated": [
+   100.0,
+   0.0
+  ],
+  "docs_needing_llm": 18,
+  "n_docs": 18,
+  "n_runs": 10
+ },
+ "declared_unit": {
+  "w1": {
+   "ok": 17,
+   "tot": 18,
+   "pct": 94.44444444444444
+  },
+  "ds1": {
+   "ok": 17,
+   "tot": 18,
+   "pct": 94.44444444444444
+  },
+  "dp1": {
+   "ok": 17,
+   "tot": 18,
+   "pct": 94.44444444444444
+  }
+ }
+}

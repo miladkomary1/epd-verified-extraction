@@ -1,0 +1,8 @@
+{
+ "input_tokens": 190376,
+ "output_tokens": 48721,
+ "cached": 0,
+ "calls": 18,
+ "cost_usd_est": 0.10499462000000001,
+ "elapsed_s": 270.2
+}

@@ -1,0 +1,1638 @@
+{
+ "run": "wext",
+ "scope": "ext",
+ "n_items": 113,
+ "gt_slots": 22317,
+ "coverage_pct": 86.08683962898239,
+ "precision_pct": 97.27253799708515,
+ "recall_pct": 83.73885378859165,
+ "n_errors": 524,
+ "gated_coverage_pct": 83.58650356230676,
+ "gated_precision_pct": 98.32207569422108,
+ "gated_errors_surfaced": 313,
+ "errors_withheld": 211,
+ "correct_withheld": 347,
+ "errors": [
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-total",
+   "mod": "D",
+   "llm": -0.0685,
+   "gt": -0.2266
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-fossil",
+   "mod": "D",
+   "llm": -0.0682,
+   "gt": -0.2266
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-biogenic",
+   "mod": "D",
+   "llm": -0.000346,
+   "gt": 0.0001433
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-luluc",
+   "mod": "D",
+   "llm": -7.41e-06,
+   "gt": -0.0001182
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "ODP",
+   "mod": "D",
+   "llm": -4.55e-13,
+   "gt": -5.022e-13
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "AP",
+   "mod": "D",
+   "llm": -8.9e-05,
+   "gt": -0.0006759
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "EP-freshwater",
+   "mod": "D",
+   "llm": -9.26e-08,
+   "gt": -3.161e-07
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "EP-marine",
+   "mod": "D",
+   "llm": -2.42e-05,
+   "gt": -0.0002362
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "EP-terrestrial",
+   "mod": "D",
+   "llm": -0.00026,
+   "gt": -0.002589
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "POCP",
+   "mod": "D",
+   "llm": -6.78e-05,
+   "gt": -0.0007167
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "ADPE",
+   "mod": "D",
+   "llm": -1.02e-08,
+   "gt": -2.278e-08
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "ADPF",
+   "mod": "D",
+   "llm": -1.16,
+   "gt": -34.95
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "WDP",
+   "mod": "D",
+   "llm": -0.00709,
+   "gt": -0.03502
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PERE",
+   "mod": "D",
+   "llm": -0.314,
+   "gt": -0.2991
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PERT",
+   "mod": "D",
+   "llm": -0.314,
+   "gt": -0.2991
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PENRE",
+   "mod": "D",
+   "llm": -1.16,
+   "gt": -34.96
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PENRT",
+   "mod": "D",
+   "llm": -1.16,
+   "gt": -34.96
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "SM",
+   "mod": "D",
+   "llm": 0.0,
+   "gt": 1.53
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "FW",
+   "mod": "D",
+   "llm": -0.0003,
+   "gt": -0.003054
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "HWD",
+   "mod": "D",
+   "llm": -1.58e-10,
+   "gt": -6.62e-11
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "NHWD",
+   "mod": "D",
+   "llm": -0.000582,
+   "gt": -0.000771
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "RWD",
+   "mod": "D",
+   "llm": -9.01e-05,
+   "gt": -5.31e-05
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-total",
+   "mod": "D",
+   "llm": -0.0277,
+   "gt": -0.2225
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-fossil",
+   "mod": "D",
+   "llm": -0.0276,
+   "gt": -0.222
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-biogenic",
+   "mod": "D",
+   "llm": -0.000141,
+   "gt": -0.0003794
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-luluc",
+   "mod": "D",
+   "llm": -3.02e-06,
+   "gt": -0.0001075
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "ODP",
+   "mod": "D",
+   "llm": -1.86e-13,
+   "gt": -2.797e-13
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "AP",
+   "mod": "D",
+   "llm": -3.62e-05,
+   "gt": -0.0008551
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "EP-freshwater",
+   "mod": "D",
+   "llm": -3.78e-08,
+   "gt": -2.39e-07
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "EP-marine",
+   "mod": "D",
+   "llm": -9.83e-06,
+   "gt": -0.0002562
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "EP-terrestrial",
+   "mod": "D",
+   "llm": -0.000105,
+   "gt": -0.002808
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "POCP",
+   "mod": "D",
+   "llm": -2.75e-05,
+   "gt": -0.0007653
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "ADPE",
+   "mod": "D",
+   "llm": -4.15e-09,
+   "gt": -2.137e-08
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "ADPF",
+   "mod": "D",
+   "llm": -0.469,
+   "gt": -25.33
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "WDP",
+   "mod": "D",
+   "llm": -0.00289,
+   "gt": -0.03204
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PERE",
+   "mod": "D",
+   "llm": -0.128,
+   "gt": -0.3193
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PERT",
+   "mod": "D",
+   "llm": -0.128,
+   "gt": -0.3193
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PENRE",
+   "mod": "D",
+   "llm": -0.469,
+   "gt": -25.33
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PENRT",
+   "mod": "D",
+   "llm": -0.469,
+   "gt": -25.33
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "SM",
+   "mod": "D",
+   "llm": 0.0,
+   "gt": 0.17
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "FW",
+   "mod": "D",
+   "llm": -0.000123,
+   "gt": -0.002383
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "HWD",
+   "mod": "D",
+   "llm": -6.36e-11,
+   "gt": -1.86e-10
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "NHWD",
+   "mod": "D",
+   "llm": -0.000237,
+   "gt": -0.109
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "RWD",
+   "mod": "D",
+   "llm": -3.68e-05,
+   "gt": -7.03e-05
+  },
+  {
+   "item": "Extension module 90 30 / 90 31",
+   "code": "RWD",
+   "mod": "C2",
+   "llm": 6.32e-08,
+   "gt": 6.322e-09
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-total",
+   "mod": "D",
+   "llm": -0.0381,
+   "gt": -0.2713
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-fossil",
+   "mod": "D",
+   "llm": -0.0379,
+   "gt": -0.2708
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-biogenic",
+   "mod": "D",
+   "llm": -0.000194,
+   "gt": -0.0004221
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-luluc",
+   "mod": "D",
+   "llm": -4.16e-06,
+   "gt": -0.0001264
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "ODP",
+   "mod": "D",
+   "llm": -2.56e-13,
+   "gt": -3.828e-13
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "AP",
+   "mod": "D",
+   "llm": -4.98e-05,
+   "gt": -0.0009759
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "EP-freshwater",
+   "mod": "D",
+   "llm": -5.2e-08,
+   "gt": -2.853e-07
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "EP-marine",
+   "mod": "D",
+   "llm": -1.35e-05,
+   "gt": -0.0003005
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "EP-terrestrial",
+   "mod": "D",
+   "llm": -0.000145,
+   "gt": -0.003293
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "POCP",
+   "mod": "D",
+   "llm": -3.78e-05,
+   "gt": -0.0009057
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "ADPE",
+   "mod": "D",
+   "llm": -5.71e-09,
+   "gt": -2.557e-08
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "ADPF",
+   "mod": "D",
+   "llm": -0.644,
+   "gt": -34.31
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "WDP",
+   "mod": "D",
+   "llm": -0.00398,
+   "gt": -0.04036
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "PERE",
+   "mod": "D",
+   "llm": -0.177,
+   "gt": -0.3663
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "PERT",
+   "mod": "D",
+   "llm": -0.177,
+   "gt": -0.3663
+  }
+ ],
+ "gated_errors": [
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-total",
+   "mod": "D",
+   "llm": -0.0685,
+   "gt": -0.2266
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-fossil",
+   "mod": "D",
+   "llm": -0.0682,
+   "gt": -0.2266
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-biogenic",
+   "mod": "D",
+   "llm": -0.000346,
+   "gt": 0.0001433
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "GWP-luluc",
+   "mod": "D",
+   "llm": -7.41e-06,
+   "gt": -0.0001182
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "AP",
+   "mod": "D",
+   "llm": -8.9e-05,
+   "gt": -0.0006759
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "EP-freshwater",
+   "mod": "D",
+   "llm": -9.26e-08,
+   "gt": -3.161e-07
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "EP-marine",
+   "mod": "D",
+   "llm": -2.42e-05,
+   "gt": -0.0002362
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "EP-terrestrial",
+   "mod": "D",
+   "llm": -0.00026,
+   "gt": -0.002589
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "POCP",
+   "mod": "D",
+   "llm": -6.78e-05,
+   "gt": -0.0007167
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "ADPE",
+   "mod": "D",
+   "llm": -1.02e-08,
+   "gt": -2.278e-08
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "ADPF",
+   "mod": "D",
+   "llm": -1.16,
+   "gt": -34.95
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "WDP",
+   "mod": "D",
+   "llm": -0.00709,
+   "gt": -0.03502
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PERE",
+   "mod": "D",
+   "llm": -0.314,
+   "gt": -0.2991
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PERT",
+   "mod": "D",
+   "llm": -0.314,
+   "gt": -0.2991
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PENRE",
+   "mod": "D",
+   "llm": -1.16,
+   "gt": -34.96
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "PENRT",
+   "mod": "D",
+   "llm": -1.16,
+   "gt": -34.96
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "SM",
+   "mod": "D",
+   "llm": 0.0,
+   "gt": 1.53
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "FW",
+   "mod": "D",
+   "llm": -0.0003,
+   "gt": -0.003054
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "HWD",
+   "mod": "D",
+   "llm": -1.58e-10,
+   "gt": -6.62e-11
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "NHWD",
+   "mod": "D",
+   "llm": -0.000582,
+   "gt": -0.000771
+  },
+  {
+   "item": "Tufted tiles, 100% recycled po",
+   "code": "RWD",
+   "mod": "D",
+   "llm": -9.01e-05,
+   "gt": -5.31e-05
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-total",
+   "mod": "D",
+   "llm": -0.0277,
+   "gt": -0.2225
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-fossil",
+   "mod": "D",
+   "llm": -0.0276,
+   "gt": -0.222
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-biogenic",
+   "mod": "D",
+   "llm": -0.000141,
+   "gt": -0.0003794
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "GWP-luluc",
+   "mod": "D",
+   "llm": -3.02e-06,
+   "gt": -0.0001075
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "AP",
+   "mod": "D",
+   "llm": -3.62e-05,
+   "gt": -0.0008551
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "EP-freshwater",
+   "mod": "D",
+   "llm": -3.78e-08,
+   "gt": -2.39e-07
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "EP-marine",
+   "mod": "D",
+   "llm": -9.83e-06,
+   "gt": -0.0002562
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "EP-terrestrial",
+   "mod": "D",
+   "llm": -0.000105,
+   "gt": -0.002808
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "POCP",
+   "mod": "D",
+   "llm": -2.75e-05,
+   "gt": -0.0007653
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "ADPE",
+   "mod": "D",
+   "llm": -4.15e-09,
+   "gt": -2.137e-08
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "ADPF",
+   "mod": "D",
+   "llm": -0.469,
+   "gt": -25.33
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "WDP",
+   "mod": "D",
+   "llm": -0.00289,
+   "gt": -0.03204
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PERE",
+   "mod": "D",
+   "llm": -0.128,
+   "gt": -0.3193
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PERT",
+   "mod": "D",
+   "llm": -0.128,
+   "gt": -0.3193
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PENRE",
+   "mod": "D",
+   "llm": -0.469,
+   "gt": -25.33
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "PENRT",
+   "mod": "D",
+   "llm": -0.469,
+   "gt": -25.33
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "SM",
+   "mod": "D",
+   "llm": 0.0,
+   "gt": 0.17
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "FW",
+   "mod": "D",
+   "llm": -0.000123,
+   "gt": -0.002383
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "HWD",
+   "mod": "D",
+   "llm": -6.36e-11,
+   "gt": -1.86e-10
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "NHWD",
+   "mod": "D",
+   "llm": -0.000237,
+   "gt": -0.109
+  },
+  {
+   "item": "Tufted tiles, 75% rec. PA 6.6 ",
+   "code": "RWD",
+   "mod": "D",
+   "llm": -3.68e-05,
+   "gt": -7.03e-05
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-total",
+   "mod": "D",
+   "llm": -0.0381,
+   "gt": -0.2713
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-fossil",
+   "mod": "D",
+   "llm": -0.0379,
+   "gt": -0.2708
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-biogenic",
+   "mod": "D",
+   "llm": -0.000194,
+   "gt": -0.0004221
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "GWP-luluc",
+   "mod": "D",
+   "llm": -4.16e-06,
+   "gt": -0.0001264
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "AP",
+   "mod": "D",
+   "llm": -4.98e-05,
+   "gt": -0.0009759
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "EP-freshwater",
+   "mod": "D",
+   "llm": -5.2e-08,
+   "gt": -2.853e-07
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "EP-marine",
+   "mod": "D",
+   "llm": -1.35e-05,
+   "gt": -0.0003005
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "EP-terrestrial",
+   "mod": "D",
+   "llm": -0.000145,
+   "gt": -0.003293
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "POCP",
+   "mod": "D",
+   "llm": -3.78e-05,
+   "gt": -0.0009057
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "ADPE",
+   "mod": "D",
+   "llm": -5.71e-09,
+   "gt": -2.557e-08
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "ADPF",
+   "mod": "D",
+   "llm": -0.644,
+   "gt": -34.31
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "WDP",
+   "mod": "D",
+   "llm": -0.00398,
+   "gt": -0.04036
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "PERE",
+   "mod": "D",
+   "llm": -0.177,
+   "gt": -0.3663
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "PERT",
+   "mod": "D",
+   "llm": -0.177,
+   "gt": -0.3663
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "PENRE",
+   "mod": "D",
+   "llm": -0.644,
+   "gt": -34.32
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "PENRT",
+   "mod": "D",
+   "llm": -0.644,
+   "gt": -34.32
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "SM",
+   "mod": "D",
+   "llm": 0.0,
+   "gt": 0.15
+  },
+  {
+   "item": "Tufted tiles, Polyamid 6 with ",
+   "code": "FW",
+   "mod": "D",
+   "llm": -0.000169,
+   "gt": -0.003146
+  }
+ ],
+ "per_item": [
+  {
+   "uuid": "00d981f2-2494-4bb1-bfe3-91b57fc141e4",
+   "name": "Woven glass fibre wall covering",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "010d4841-6523-4c19-9b88-13325350d86c",
+   "name": "ARDEX X 90",
+   "gt_slots": 182,
+   "pop": 182,
+   "match": 182
+  },
+  {
+   "uuid": "0321c86a-e09d-4791-a40e-51e280c700c3",
+   "name": "CEM III/A 42,5 L-LH (na)",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "0672f6c1-32d3-42c1-a480-bf2fea04597c",
+   "name": "Crane Manual Revolving Door - AL 1000/20",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "06f97760-c2e3-4d01-9ea8-1c72def5df66",
+   "name": "BEST 9K Cylindrical Series",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "072082dd-dc88-4396-8991-2d30a8041cb2",
+   "name": "Electronic Safe Lock CenconX - Electroni",
+   "gt_slots": 260,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "08ba9149-339b-4978-a24a-2b46d9dbc326",
+   "name": "VELUX Commercial acrylic dome rooflights",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "09e1332a-b73f-4c7e-a698-4b9b5b40f4f4",
+   "name": "AQUAPANEL\u00ae Cement Board Rooftop 12,5 mm",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "0a15ffbe-6720-4544-993a-a4fce85176ea",
+   "name": "ARDEX K 71 - floor leveling compound",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "0b13c34f-1b15-498d-9133-091535333231",
+   "name": "Carpet Tile Sticker",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "0bc73361-b7cf-4901-a7a8-926238ff2874",
+   "name": "Hebel autoclaved aerated concrete, reinf",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "0c0b287d-eb50-41a9-88f4-5f16b4981ddc",
+   "name": "BEST EHD9000",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "0c5b9283-7cd1-4bb5-9028-05bd9f3704de",
+   "name": "GLAPOR cellular glass boards",
+   "gt_slots": 208,
+   "pop": 104,
+   "match": 104
+  },
+  {
+   "uuid": "0ceeaf6a-34c8-4371-a4bb-15b1d0a45395",
+   "name": "Tufted tiles, 100% recycled polyamide 6 ",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "0e28fd9d-53ec-434f-a278-3ba03f8323d2",
+   "name": "Aluminium lever and window handle CORE/P",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "1224e0a5-a794-4d26-b574-c11df4011cfa",
+   "name": "Tufted tiles, 75% rec. PA 6.6 with a max",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "1246d584-26c0-466c-b1a9-444a6ec911ef",
+   "name": "Dalmatiner EPS Boards 032",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "13146ba0-9cca-46b7-820d-d24c01fb81dc",
+   "name": "Extension module 90 43",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "136ac6b0-6973-472a-9eff-661911eaecd1",
+   "name": "Fibrolith\u00ae 2-layer panels made of minera",
+   "gt_slots": 184
+  },
+  {
+   "uuid": "1598f156-ab6f-4419-9381-adc14634997f",
+   "name": "Green Roof System",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "15cfb4a0-b879-460a-b96f-26e6649a008f",
+   "name": "Double cylinder - star cross, star, 20 a",
+   "gt_slots": 182,
+   "pop": 182,
+   "match": 182
+  },
+  {
+   "uuid": "17563d7b-443c-4c1b-84f9-27026241c0b9",
+   "name": "ArmaPET\u00ae Eco50",
+   "gt_slots": 208
+  },
+  {
+   "uuid": "1a8ebb43-2e63-4fb6-a659-37f84dc5613e",
+   "name": "Nonwoven glass fibre wall covering",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "1a9aae29-30c9-4544-a2b3-a9e7c153272c",
+   "name": "Insulation - System IDEAL PET",
+   "gt_slots": 208
+  },
+  {
+   "uuid": "1b39b1f7-93da-484b-b2f7-2a9d4283e1c2",
+   "name": "FIS EM Plus",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "1c22a17e-aca4-4126-9fde-f02c33aa741e",
+   "name": "best wood wood fibre insulation boards",
+   "gt_slots": 390,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "1caeba10-b67e-42c4-b174-d2e2bc8187f7",
+   "name": "Overhead Door Closer TS Match Series - D",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "1d1b24a0-3a43-458e-8be7-6bc8aabe4f41",
+   "name": "Extension module 90 30 / 90 31",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 233
+  },
+  {
+   "uuid": "1d9ca1d8-7ff3-4533-b828-a4c96bf31066",
+   "name": "gypsum fibre board",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "1df72aa3-4f18-4ffd-994b-e4b984154e47",
+   "name": "Steel strip made from scrap-based electr",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "1ea38afe-ecbf-43b6-8112-40cd5d1e770b",
+   "name": "EcoWorx S\u2122 Carpet Tile with EcoSolution ",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "1f7d7833-7309-4387-9609-8be234332f68",
+   "name": "Duripanel A2",
+   "gt_slots": 312,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "218b6cff-090c-418c-b96e-f2e9e9a79839",
+   "name": "Tufted tiles, Polyamid 6 with a maximum ",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "25051eb9-043c-4920-a773-1fe9932cd81e",
+   "name": "Tufted wall-to-wall carpet, 95% recycled",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "269ca088-efc3-4213-979d-ebfab4992763",
+   "name": "Refurbished Raised floor panel Lindner L",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 166
+  },
+  {
+   "uuid": "27be4608-2d43-4ad6-b168-d6b2dfcfbaea",
+   "name": "FIS V Zero",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "28dcb89f-be15-465a-8341-41d741d94d13",
+   "name": "Gradus Carpet Tile with Nylon Face Fibre",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "2b928ab3-2188-41ff-ba5c-ca092e4a7391",
+   "name": "FAAC A952 Drive for swing doors",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "2cc49e5a-f0e0-4a1b-aa53-cf7caace7bbe",
+   "name": "Woven broadloom carpet, pile material so",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "2ccc8b8a-ea55-4383-9d22-689543ae0cd1",
+   "name": "best wood FIBRE",
+   "gt_slots": 390,
+   "pop": 390,
+   "match": 390
+  },
+  {
+   "uuid": "2f09ee1a-6c1e-46c3-8446-3b2bc31daece",
+   "name": "Astron PRS Product (galvanized steel ele",
+   "gt_slots": 182,
+   "pop": 182,
+   "match": 182
+  },
+  {
+   "uuid": "303a5071-090d-4ff2-963a-3fb2fa69bc0e",
+   "name": "CEM II/B-S 52,5 R",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "303c419d-5891-4426-a8cc-05a902439fce",
+   "name": "Floor Spring BTS 80 Series - Floor Sprin",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "328a2049-6692-483c-8012-2d4471d00311",
+   "name": "ESA 400 Automatic Sliding Door",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "32e972c7-11cd-429a-b21b-435b059a8375",
+   "name": "Fine Fissured Hi NRC",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "34e9bbb7-a3c6-42fb-9b3d-0341e79def17",
+   "name": "blaugelb insulation panel EPS",
+   "gt_slots": 156,
+   "pop": 78,
+   "match": 78
+  },
+  {
+   "uuid": "368476df-7ee1-4559-8fe8-dfdfefa69781",
+   "name": "Floor spring BTS 65",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "3686129f-7ba6-48b5-bb4d-879455ad1bc2",
+   "name": "Fibrolith\u00ae mineral-bonded wood wool pane",
+   "gt_slots": 184,
+   "pop": 184,
+   "match": 184
+  },
+  {
+   "uuid": "369fb614-190a-433d-99ff-6a8e8788a58b",
+   "name": "Woven carpet tiles, pile material soluti",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "37e62d96-7e02-466e-aaf4-99539b29d9a9",
+   "name": "CEM I 52,5 R (ft)",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "38444b37-76cb-4ae3-80af-9de49c2b0ea5",
+   "name": "ARGUS AIR sensor barriers",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "38abc01d-fcc1-4ca1-b6ec-a1f80e7c8d36",
+   "name": "Tufted tiles, Polyamid 6 with a maximum ",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 188
+  },
+  {
+   "uuid": "4085dd2a-f8db-437a-b43b-040c31849209",
+   "name": "EL 301 Series Sliding Door Operator",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "447b2043-3c4e-4f7a-b790-390735e70ccb",
+   "name": "blaugelb sill connection profile EPS",
+   "gt_slots": 156,
+   "pop": 78,
+   "match": 78
+  },
+  {
+   "uuid": "44d20812-1ed2-4e11-9cf0-54a3b7eb56fa",
+   "name": "FOAMGLAS\u00ae T3+",
+   "gt_slots": 208,
+   "pop": 156,
+   "match": 136
+  },
+  {
+   "uuid": "454898b5-c2d1-48a5-a812-b5e54dd859f0",
+   "name": "BEST 1C Series",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "48d1a629-79cd-420b-bd06-3cdb04b2d0e8",
+   "name": "Coating powder IGP-DURA@xal 4201 - Coati",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "48fea6bd-fbb8-432d-95fa-8639945a8e78",
+   "name": "Concrete C30/37, Type number 988899192",
+   "gt_slots": 130,
+   "pop": 130,
+   "match": 130
+  },
+  {
+   "uuid": "4a672984-6f4c-454b-a5bf-bc2146efa7cf",
+   "name": "Automatic Revolving Door KTV A - automat",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "4d45e1c4-338a-4bd4-81b2-ba028e1047dc",
+   "name": "ESA 100-300 Automatic Sliding Door",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "4e739e25-97dd-435c-8d94-b7852e1be760",
+   "name": "Automatic Swing Door Operator ED 100 - A",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "51555a63-9b9c-49d5-a8c3-186bbdc3262c",
+   "name": "VELUX Commercial Polycarbonate rooflight",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "5429f879-3e40-48ac-9a21-ee83f97e0aba",
+   "name": "CEM I 42,5 R",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "559aeda4-9701-4c6a-bc82-8c81176d0fc0",
+   "name": "ED 100/250",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "55b8a86c-fde6-4245-9280-fbbfe19a1586",
+   "name": "designed acoustic ceiling 24 mm",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "5801aa93-0fe8-465f-9c9d-d515ae8c1893",
+   "name": "Mortise Lock Saflok RT Plus - RFID elect",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "5977112f-0a27-48bd-beb8-5e83cf63e415",
+   "name": "Concrete C40/50, Type number 988429096",
+   "gt_slots": 130,
+   "pop": 130,
+   "match": 130
+  },
+  {
+   "uuid": "59e2b443-58e7-4b24-8a7d-11c562e1a82e",
+   "name": "Classic Max",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "5a580331-75c4-43c8-b732-19fc1cc8e97a",
+   "name": "EGGER DHF",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "5db4f6bd-ea87-400b-b4ac-6a51388fa9d4",
+   "name": "BEST 47H Mortise Series",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "5dd08fc1-0bba-4b6b-9ca0-1692ab2b088e",
+   "name": "GLAPOR cellular glass gravel",
+   "gt_slots": 208
+  },
+  {
+   "uuid": "5deafa6a-4d23-49a3-991c-891a546f6d3f",
+   "name": "VELUX frame extension LGI",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "5e1eea32-1c9e-4fbb-8da4-b0a388ffc76e",
+   "name": "Astron PRS Product (steel elements made ",
+   "gt_slots": 182,
+   "pop": 182,
+   "match": 182
+  },
+  {
+   "uuid": "5f025d1f-cf04-4ccb-8495-6a2c58647b96",
+   "name": "ES PROLINE",
+   "gt_slots": 162,
+   "pop": 162,
+   "match": 162
+  },
+  {
+   "uuid": "5f4ef6e1-47eb-4d80-98fb-a198e02bb318",
+   "name": "EcoWorx S\u2122 Carpet Tile with EcoSolution ",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "62404b70-e6d8-4c82-ac47-e6dff74893c3",
+   "name": "CEM III/A 42,5 R (na), Werk Eisenh\u00fcttens",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "639da311-4225-47b0-973d-7186d2f277b2",
+   "name": "c-lever pro",
+   "gt_slots": 234
+  },
+  {
+   "uuid": "64318385-991b-4aec-83a4-99c59f6f2471",
+   "name": "Bachl ReXPS - Extruded Polystyrene (XPS)",
+   "gt_slots": 208,
+   "pop": 130,
+   "match": 130
+  },
+  {
+   "uuid": "650a4800-0bc1-4d1e-b673-85e05cfc2310",
+   "name": "External Venetian Blind",
+   "gt_slots": 234
+  },
+  {
+   "uuid": "6557908e-d613-452b-812f-c72c4363c83d",
+   "name": "BEST T Deadbolt Series",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "67b83112-35c8-4b54-a1e9-073a9ac3c8f7",
+   "name": "Tufted wall-to-wall carpet, 95% recycled",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "69787b5c-495c-409f-bc5b-58af0dc39e56",
+   "name": "best wood BSH",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "6a341eb0-dc2b-4bbd-889f-cd715767f5ce",
+   "name": "Geryon Security Revolving Door",
+   "gt_slots": 260,
+   "pop": 260,
+   "match": 260
+  },
+  {
+   "uuid": "6d9cf0c0-eec7-4c61-a8c1-f79914d7f4f6",
+   "name": "ASSA ABLOY PULSE - Digital lock cylinder",
+   "gt_slots": 182,
+   "pop": 182,
+   "match": 182
+  },
+  {
+   "uuid": "6f9d42e6-73d3-491f-b9ce-76f5d530aa7d",
+   "name": "Tufted tiles, Polyamid 6 with a maximum ",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 188
+  },
+  {
+   "uuid": "7093493b-6b5c-42f5-9975-1b9ff71df252",
+   "name": "Steel radiator",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "73c7eefc-060a-41ca-a6c9-ca09ba671737",
+   "name": "CEM II/A-LL 32,5 R",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "7730689d-1aa7-46ae-aada-a562f2764f0a",
+   "name": "BEST HD8000",
+   "gt_slots": 208
+  },
+  {
+   "uuid": "774fbe44-55b0-4a74-8cf8-1fe430ee9f70",
+   "name": "Tufted wall-to-wall carpet, polypropylen",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "7a472800-1665-4ccd-aeca-70a9ce340a2b",
+   "name": "Epoxy Powder Coating",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "7a8815b1-4b5d-44c8-ac1d-a14950f510d1",
+   "name": "Needled carpet tiles, yarn mixture of 80",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 187
+  },
+  {
+   "uuid": "7aa2b593-157e-4b48-bd3c-51cf523e9f53",
+   "name": "Stainless steel lever and window handle ",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "7b3304f4-63e1-43f3-86f8-f13a1bc40520",
+   "name": "Driveway 200x100x50 mm Brindle, Mix Desi",
+   "gt_slots": 207,
+   "pop": 184,
+   "match": 4
+  },
+  {
+   "uuid": "7d5a1c74-4c5b-40cb-a4d3-4334afae98bc",
+   "name": "Cast strips as precursor material for sl",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "7f7348b9-fb2f-4d11-aa3d-70fabdd67039",
+   "name": "Combar\u00ae",
+   "gt_slots": 154,
+   "pop": 142,
+   "match": 142
+  },
+  {
+   "uuid": "7f9dc714-0812-4b53-9096-f35f44ea145e",
+   "name": "Tufted tiles, 100% recycled Polyamid 6 w",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "80b2a264-25e6-4202-bfd0-553998815eb4",
+   "name": "reinforced elements made of autoclaved a",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "810c7598-acf1-4b34-8f2d-d45c7a2afd21",
+   "name": "CEM II/B-LL 32,5 R (Sackware)",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "823c0674-fd50-4b7d-aef4-14acdaced11d",
+   "name": "CEM II/B-S 42,5 N",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "863d4924-9320-4a67-8b7c-5ff0fa371c07",
+   "name": "Digital cylinder",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "86844442-778d-4899-935f-f12b73b1e7a1",
+   "name": "blaugelb insulation panel MultiPro EPS",
+   "gt_slots": 156,
+   "pop": 78,
+   "match": 78
+  },
+  {
+   "uuid": "885893d7-57a4-458c-b6a8-a820e0dce794",
+   "name": "CEM III/B 42,5 L",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "898d84c8-3e79-4e0e-82a4-bdfd4fad09da",
+   "name": "Pickled hot-rolled wide strip made from ",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "8cd435d4-54ad-48c0-8d9e-9015b491bb79",
+   "name": "Bachl ReXPS - Extruded Polystyrene (XPS)",
+   "gt_slots": 208,
+   "pop": 130,
+   "match": 130
+  },
+  {
+   "uuid": "8ef35f6e-56d5-4982-8907-4a1bcdea1081",
+   "name": "Cencon ATM Cash Vault Security System",
+   "gt_slots": 182,
+   "pop": 182,
+   "match": 182
+  },
+  {
+   "uuid": "9089d841-031a-4135-8c6e-4a83ec29f4a1",
+   "name": "ARDEX K 22 F",
+   "gt_slots": 182,
+   "pop": 182,
+   "match": 182
+  },
+  {
+   "uuid": "918a7faa-06e9-41d3-b888-aacda03fd1b0",
+   "name": "Tufted tiles, polyamide 6 with a maximum",
+   "gt_slots": 260,
+   "pop": 208,
+   "match": 186
+  },
+  {
+   "uuid": "928ac8c7-e221-470e-977c-08085a92af26",
+   "name": "BEST HD8000",
+   "gt_slots": 90,
+   "pop": 90,
+   "match": 90
+  },
+  {
+   "uuid": "95771061-5691-44b2-82e4-3d40a9db8690",
+   "name": "Mortise Lock Saffire EVO Series - Smart ",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "9591148a-69d2-4824-9935-f258913f531e",
+   "name": "Duripanel B1",
+   "gt_slots": 312,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "95a62086-58ff-48d7-8aa5-f0f1b3a4f8ff",
+   "name": "BKP-EN",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "962826c3-4b38-4300-af59-f39fad184aaa",
+   "name": "CEM I 42,5 N (st)",
+   "gt_slots": 25,
+   "pop": 25,
+   "match": 25
+  },
+  {
+   "uuid": "97345f6c-b4f4-4761-8863-14fc279ada34",
+   "name": "Concrete C40/50, Type number 988429091",
+   "gt_slots": 130,
+   "pop": 130,
+   "match": 130
+  }
+ ]
+}

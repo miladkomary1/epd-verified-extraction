@@ -1,0 +1,174 @@
+{
+ "run": "ds1",
+ "scope": "core",
+ "n_items": 18,
+ "gt_slots": 3640,
+ "coverage_pct": 96.53846153846153,
+ "precision_pct": 99.88616960728514,
+ "recall_pct": 96.42857142857143,
+ "n_errors": 4,
+ "gated_coverage_pct": 95.85164835164835,
+ "gated_precision_pct": 100.0,
+ "gated_errors_surfaced": 0,
+ "errors_withheld": 4,
+ "correct_withheld": 21,
+ "errors": [
+  {
+   "item": "Access manager 92 00",
+   "code": "ODP",
+   "mod": "C4",
+   "llm": 2.53e-16,
+   "gt": 2.53e-19
+  },
+  {
+   "item": "Access manager 92 30",
+   "code": "ODP",
+   "mod": "A4",
+   "llm": 6.39e-15,
+   "gt": 6.39e-18
+  },
+  {
+   "item": "Access manager 92 30",
+   "code": "ODP",
+   "mod": "C2",
+   "llm": 3.01e-16,
+   "gt": 3.01e-19
+  },
+  {
+   "item": "Access manager 92 30",
+   "code": "ODP",
+   "mod": "C4",
+   "llm": 1.49e-15,
+   "gt": 1.49e-18
+  }
+ ],
+ "gated_errors": [],
+ "per_item": [
+  {
+   "uuid": "0e67ff82-dcb5-47fa-9783-71ebebe21077",
+   "name": "ADAGIO HD+ (35 mm)",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "1ace8a18-50b8-41b0-bdd0-840b325d16f7",
+   "name": "Impact absorber Kremsbarrier APD P100 - ",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "1d3d4e53-43c7-45d9-9c97-a02c2785ab1c",
+   "name": "ADAGIO Acoustic+ (19 mm)",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "20c24cbe-4c17-45f6-9539-144d43099b25",
+   "name": "Access manager 92 00",
+   "gt_slots": 208,
+   "pop": 184,
+   "match": 183
+  },
+  {
+   "uuid": "299cd856-c220-4b82-910d-60c91e035c7d",
+   "name": "Access manager 92 90 Wall",
+   "gt_slots": 234,
+   "pop": 234,
+   "match": 234
+  },
+  {
+   "uuid": "3106ccac-01cc-467f-8bff-8a515c575928",
+   "name": "AF/ArmaFlex Evo insulation for industria",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "3222ca11-e1ee-4910-9997-0ea4e42831f6",
+   "name": "ADAGIO HD+ (19 mm)",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "36727a61-de18-4063-8f73-6c6957915f55",
+   "name": "ALT 50",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "55a779b7-89a1-4249-a37b-1c2445e56426",
+   "name": "ADAGIO dB+ (30 mm)",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "671a8c95-a3f8-4010-937e-c72940f66504",
+   "name": "Access manager 92 30",
+   "gt_slots": 208,
+   "pop": 184,
+   "match": 181
+  },
+  {
+   "uuid": "83bf0eea-e373-492a-8837-dbabfdc3a5fc",
+   "name": "AQUAPANEL\u00ae Cement Board Indoor- Plant Ne",
+   "gt_slots": 364,
+   "pop": 364,
+   "match": 364
+  },
+  {
+   "uuid": "9394795b-a620-4f54-b72c-c535bb0a02f0",
+   "name": "ADAGIO HD+ (30 mm)",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "9eced374-9a8d-4ace-a569-56d52a2d1013",
+   "name": "ADAGIO dB+ and ADAGIO Acoustic+ Vector (",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "b0544ff7-dd7c-46ac-b5e2-8530c52f7950",
+   "name": "ALWI-S Profile System",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "c54c16f6-4295-4749-bff0-ba7ed4bc9117",
+   "name": "'LinCrete' Glass-Fibre Reinforced Concre",
+   "gt_slots": 208,
+   "pop": 208,
+   "match": 208
+  },
+  {
+   "uuid": "eb6f1c56-85f7-436f-b8d7-36fd3d072017",
+   "name": "ADAGIO Alpha+ (20 mm)",
+   "gt_slots": 156,
+   "pop": 156,
+   "match": 156
+  },
+  {
+   "uuid": "f9e2c14d-41e0-46d1-be45-03dd5b3f518c",
+   "name": "AQUAPANEL\u00ae Cement Board Indoor- Plant Is",
+   "gt_slots": 364,
+   "pop": 364,
+   "match": 364
+  },
+  {
+   "uuid": "fd6ae0fa-4d2d-4005-9759-909e508751ab",
+   "name": "Airium cement-based insulation foam",
+   "gt_slots": 234,
+   "pop": 156,
+   "match": 156
+  }
+ ]
+}

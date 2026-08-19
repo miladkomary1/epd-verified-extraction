@@ -1,0 +1,21 @@
+{
+ "totals": {
+  "gt_slots": 2800,
+  "populated": 2704,
+  "matched": 2703,
+  "extra": 80
+ },
+ "coverage_pct": 96.57142857142857,
+ "precision_pct": 99.96301775147928,
+ "recall_pct": 96.53571428571428,
+ "errors": [
+  {
+   "item": "Access manager 92 00",
+   "ind": "RWD",
+   "mod": "A4",
+   "llm": 2.5e-06,
+   "gt": 2.5e-07,
+   "class": "MAG"
+  }
+ ]
+}

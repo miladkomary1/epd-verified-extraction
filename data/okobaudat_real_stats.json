@@ -1,0 +1,59 @@
+{
+ "products_with_rows": 124,
+ "rows": 1035,
+ "columns": 100,
+ "values_written": 32987,
+ "values_withheld": 894,
+ "products_nothing_verified": 7,
+ "products_total": 131,
+ "header_matches_published_export": true,
+ "rows_check": 1035,
+ "format": {
+  "delimiter": "semicolon",
+  "encoding": "ISO-8859-1",
+  "line_ending": "CRLF",
+  "columns": 100,
+  "row_granularity": "one row per product and life-cycle module",
+  "module_column": "Modul",
+  "module_column_index": 34,
+  "a2_impact_columns": 19,
+  "a1_impact_columns": 7,
+  "soil_quality_column_name": "SOP (A2)",
+  "validity_fields_are_years": true,
+  "validity_field_names": [
+   "Referenzjahr",
+   "Gueltig bis"
+  ],
+  "validity_sample_values": [
+   "2016",
+   "2021",
+   "2021",
+   "2026"
+  ],
+  "unit_field_name": "Bezugseinheit",
+  "unit_sample_values": [
+   "qm",
+   "m3"
+  ]
+ },
+ "scenario_split": {
+  "rows_with_split_module": 145,
+  "pct_of_rows": 14.0,
+  "distinct_split_codes": [
+   "B6/1",
+   "B6/2",
+   "C2/1",
+   "C2/2",
+   "C3/1",
+   "C3/2",
+   "C3/3",
+   "C4/1",
+   "C4/2",
+   "C4/3",
+   "D/1",
+   "D/2",
+   "D/3"
+  ],
+  "szenario_column_populated": 0
+ }
+}

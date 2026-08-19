@@ -1,0 +1,7 @@
+{
+ "model": "deepseek-v4-flash",
+ "input_tokens": 1316950,
+ "output_tokens": 510527,
+ "calls": 131,
+ "cost_usd_est": 0.3273
+}

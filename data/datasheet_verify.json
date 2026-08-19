@@ -1,0 +1,25 @@
+{
+ "docs": 131,
+ "valid_until": [
+  122,
+  131
+ ],
+ "geography": [
+  71,
+  131
+ ],
+ "standard": [
+  127,
+  131
+ ],
+ "registration_number": [
+  120,
+  131
+ ],
+ "reg_no_registry_missing": 0,
+ "geo_semantic_diff": 7,
+ "geo_true_miss": 53,
+ "ind_slots": 9118,
+ "ind_pop": 5949,
+ "ind_ok": 5916
+}

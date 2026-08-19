@@ -1,0 +1,11 @@
+{
+ "model": "deepseek-v4-pro",
+ "input_tokens": 190376,
+ "output_tokens": 142440,
+ "reasoning_tokens": 91376,
+ "cached": 0,
+ "calls": 18,
+ "served_model": "deepseek-v4-pro",
+ "cost_usd_est": 0.2067,
+ "elapsed_s": 1269.8
+}

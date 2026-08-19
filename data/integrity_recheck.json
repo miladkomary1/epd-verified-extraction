@@ -1,0 +1,21 @@
+{
+ "records_checked": 1068,
+ "record_mismatch_pct": 22.9,
+ "unique_documents": 651,
+ "doc_status": {
+  "mixed": 4,
+  "ok": 629,
+  "partial": 14,
+  "all_mismatch": 4
+ },
+ "doc_any_mismatch_pct": 1.2,
+ "top6_share_of_mismatches_pct": 98.4,
+ "sample_vs_stock": {
+  "agree": 203,
+  "disagree": 17,
+  "transitions": {
+   "suspect -> pair_ok": 7,
+   "partial -> pair_ok": 10
+  }
+ }
+}

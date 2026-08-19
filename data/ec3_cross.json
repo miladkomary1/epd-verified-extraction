@@ -1,0 +1,236 @@
+[
+ {
+  "uuid": "0e67ff82-dcb5-47fa-9783-71ebebe21077",
+  "name": "ADAGIO HD+ (35 mm)",
+  "ec3": "9cb890b4ff354f49ac967228410df9cf",
+  "comparison": {}
+ },
+ {
+  "uuid": "1ace8a18-50b8-41b0-bdd0-840b325d16f7",
+  "name": "Impact absorber Kremsbarrier APD P100 - ",
+  "ec3": "9577ef4b2bb142dd9ae0d47c47b64ca6",
+  "comparison": {}
+ },
+ {
+  "uuid": "1d3d4e53-43c7-45d9-9c97-a02c2785ab1c",
+  "name": "ADAGIO Acoustic+ (19 mm)",
+  "ec3": "f6ad5ac0a1a841729498b85b193cdc7e",
+  "comparison": {}
+ },
+ {
+  "uuid": "20c24cbe-4c17-45f6-9539-144d43099b25",
+  "name": "Access manager 92 00",
+  "ec3": "89702398cb71468b8c63aa6913317c5c",
+  "comparison": {
+   "GWP-total": {
+    "obd": 5.92289,
+    "ec3": 5.939487,
+    "rel_diff_pct": 0.280217934150389
+   },
+   "ODP": {
+    "obd": 7.76791000463e-10,
+    "ec3": 7.76791000463e-10,
+    "rel_diff_pct": 0.0
+   },
+   "AP": {
+    "obd": 0.03334939,
+    "ec3": 0.03334939,
+    "rel_diff_pct": 0.0
+   },
+   "POCP": {
+    "obd": 0.01707495,
+    "ec3": 0.01707495,
+    "rel_diff_pct": 0.0
+   }
+  }
+ },
+ {
+  "uuid": "299cd856-c220-4b82-910d-60c91e035c7d",
+  "name": "Access manager 92 90 Wall",
+  "ec3": "12f335c737ee44698d0a8293c999d370",
+  "comparison": {
+   "GWP-total": {
+    "obd": 47.586,
+    "ec3": 50.31017,
+    "rel_diff_pct": 5.724729962594043
+   },
+   "ODP": {
+    "obd": 3.490011111e-09,
+    "ec3": 3.490011111e-09,
+    "rel_diff_pct": 0.0
+   },
+   "AP": {
+    "obd": 0.299987,
+    "ec3": 0.299987,
+    "rel_diff_pct": 0.0
+   },
+   "POCP": {
+    "obd": 0.1370416,
+    "ec3": 0.1370416,
+    "rel_diff_pct": 0.0
+   }
+  }
+ },
+ {
+  "uuid": "3106ccac-01cc-467f-8bff-8a515c575928",
+  "name": "AF/ArmaFlex Evo insulation for industria",
+  "ec3": "5ecbdf2ff99b47c4a698dbdd1f2bec76",
+  "comparison": {
+   "GWP-total": {
+    "obd": 140.0,
+    "ec3": 140.0,
+    "rel_diff_pct": 0.0
+   },
+   "ODP": {
+    "obd": 8.55e-10,
+    "ec3": 8.55e-10,
+    "rel_diff_pct": 0.0
+   },
+   "AP": {
+    "obd": 0.682,
+    "ec3": 0.682,
+    "rel_diff_pct": 0.0
+   }
+  }
+ },
+ {
+  "uuid": "3222ca11-e1ee-4910-9997-0ea4e42831f6",
+  "name": "ADAGIO HD+ (19 mm)",
+  "ec3": "7b565786ee9941e6be950a1027ee2a49",
+  "comparison": {}
+ },
+ {
+  "uuid": "36727a61-de18-4063-8f73-6c6957915f55",
+  "name": "ALT 50",
+  "ec3": null
+ },
+ {
+  "uuid": "55a779b7-89a1-4249-a37b-1c2445e56426",
+  "name": "ADAGIO dB+ (30 mm)",
+  "ec3": "1f2b7afb009d48ec93a0ab3263ed4a4b",
+  "comparison": {}
+ },
+ {
+  "uuid": "671a8c95-a3f8-4010-937e-c72940f66504",
+  "name": "Access manager 92 30",
+  "ec3": "719628c2306646c394173082612e907e",
+  "comparison": {
+   "GWP-total": {
+    "obd": 15.86446,
+    "ec3": 16.104442,
+    "rel_diff_pct": 1.512701976619434
+   },
+   "ODP": {
+    "obd": 1.752510000955e-09,
+    "ec3": 1.752510000955e-09,
+    "rel_diff_pct": 0.0
+   },
+   "AP": {
+    "obd": 0.08567105,
+    "ec3": 0.08567105,
+    "rel_diff_pct": 0.0
+   },
+   "POCP": {
+    "obd": 0.04472114,
+    "ec3": 0.04472114,
+    "rel_diff_pct": 0.0
+   }
+  }
+ },
+ {
+  "uuid": "83bf0eea-e373-492a-8837-dbabfdc3a5fc",
+  "name": "AQUAPANEL\u00ae Cement Board Indoor- Plant Ne",
+  "ec3": "dabffeaacb67425ea28a52463f0f3371",
+  "comparison": {}
+ },
+ {
+  "uuid": "9394795b-a620-4f54-b72c-c535bb0a02f0",
+  "name": "ADAGIO HD+ (30 mm)",
+  "ec3": "7f22ed372de74607b6cf7d4e1b08691e",
+  "comparison": {}
+ },
+ {
+  "uuid": "9eced374-9a8d-4ace-a569-56d52a2d1013",
+  "name": "ADAGIO dB+ and ADAGIO Acoustic+ Vector (",
+  "ec3": "f4cbcafc279e471c9895f08f89dbe6fd",
+  "comparison": {}
+ },
+ {
+  "uuid": "b0544ff7-dd7c-46ac-b5e2-8530c52f7950",
+  "name": "ALWI-S Profile System",
+  "ec3": "005d9a3bf5e74658968e5e9ad71d5ae5",
+  "comparison": {
+   "GWP-total": {
+    "obd": 7.974,
+    "ec3": 7.974,
+    "rel_diff_pct": 0.0
+   },
+   "AP": {
+    "obd": 0.0397131,
+    "ec3": 0.0397131,
+    "rel_diff_pct": 0.0
+   }
+  }
+ },
+ {
+  "uuid": "c54c16f6-4295-4749-bff0-ba7ed4bc9117",
+  "name": "'LinCrete' Glass-Fibre Reinforced Concre",
+  "ec3": "74277883a69945749f550e8c85256e28",
+  "comparison": {
+   "GWP-total": {
+    "obd": 847.351015163189,
+    "ec3": 933.7399503336937,
+    "rel_diff_pct": 10.1951769248624
+   },
+   "ODP": {
+    "obd": 2.0832614358562e-08,
+    "ec3": 2.0832614358562e-08,
+    "rel_diff_pct": 0.0
+   },
+   "AP": {
+    "obd": 1.7956395519385,
+    "ec3": 1.7956395519385,
+    "rel_diff_pct": 0.0
+   },
+   "POCP": {
+    "obd": 1.24853291863716,
+    "ec3": 1.24853291863716,
+    "rel_diff_pct": 0.0
+   }
+  }
+ },
+ {
+  "uuid": "eb6f1c56-85f7-436f-b8d7-36fd3d072017",
+  "name": "ADAGIO Alpha+ (20 mm)",
+  "ec3": "b6225178b8ef4ef1902221554b335ddc",
+  "comparison": {}
+ },
+ {
+  "uuid": "f9e2c14d-41e0-46d1-be45-03dd5b3f518c",
+  "name": "AQUAPANEL\u00ae Cement Board Indoor- Plant Is",
+  "ec3": "480a9980b7c8400b9e63b0765e02c480",
+  "comparison": {}
+ },
+ {
+  "uuid": "fd6ae0fa-4d2d-4005-9759-909e508751ab",
+  "name": "Airium cement-based insulation foam",
+  "ec3": "8824447922934c77b335aaabdb5d53ab",
+  "comparison": {
+   "GWP-total": {
+    "obd": 40.6884752220227,
+    "ec3": 40.6884752220227,
+    "rel_diff_pct": 0.0
+   },
+   "ODP": {
+    "obd": 2.05961424774714e-06,
+    "ec3": 2.05961424774714e-06,
+    "rel_diff_pct": 0.0
+   },
+   "AP": {
+    "obd": 0.0861374228825176,
+    "ec3": 0.0861374228825176,
+    "rel_diff_pct": 0.0
+   }
+  }
+ }
+]

@@ -1,0 +1,64 @@
+{
+ "screen_same_pdf": 203,
+ "screen_diff_pdf": 17,
+ "disagree_same_pdf": 0,
+ "disagree_diff_pdf": 17,
+ "cat_min_pct": 14.8,
+ "cat_max_pct": 55.3,
+ "cat_table": [
+  [
+   "Komponenten von Fenstern und Vorhangfass",
+   198,
+   358,
+   55.3
+  ],
+  [
+   "Metalle",
+   50,
+   96,
+   52.1
+  ],
+  [
+   "Komposite",
+   18,
+   38,
+   47.4
+  ],
+  [
+   "Kunststoffe",
+   78,
+   171,
+   45.6
+  ],
+  [
+   "Beschichtungen",
+   15,
+   34,
+   44.1
+  ],
+  [
+   "Geb\u00e4udetechnik",
+   31,
+   89,
+   34.8
+  ],
+  [
+   "D\u00e4mmstoffe",
+   25,
+   106,
+   23.6
+  ],
+  [
+   "Holz",
+   14,
+   67,
+   20.9
+  ],
+  [
+   "Mineralische Baustoffe",
+   94,
+   633,
+   14.8
+  ]
+ ]
+}

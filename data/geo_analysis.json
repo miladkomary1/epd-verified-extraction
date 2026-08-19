@@ -1,0 +1,42 @@
+{
+ "total": 131,
+ "agree": 71,
+ "supra_vs_country": 35,
+ "country_vs_country": 6,
+ "empty": 16,
+ "other": 3,
+ "examples": [
+  [
+   "RER",
+   "DE"
+  ],
+  [
+   "GLO",
+   "US"
+  ],
+  [
+   "RER",
+   "BE"
+  ],
+  [
+   "GLO",
+   "DE"
+  ],
+  [
+   "RER",
+   "Ireland, Netherlands"
+  ],
+  [
+   "GLO",
+   "DE"
+  ],
+  [
+   "SG",
+   "Singapore"
+  ],
+  [
+   "DE",
+   "M\u00fcnchehof, Siglingen, "
+  ]
+ ]
+}
