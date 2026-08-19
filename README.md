@@ -61,8 +61,9 @@ Files worth knowing about:
 ## What is not here
 
 - **The declaration PDFs.** They belong to their programme operators. Use the manifest.
-- **The web application.** An interactive tool built on this workflow runs at
-  <https://epd-llm.miladkomary.com>. Its front end and back end are not part of this release.
+- **The web application.** An interactive tool has been built on top of this workflow,
+  but its front end and back end are not part of this release. Access to it is by
+  invitation only.
 
 ## Citing
 
